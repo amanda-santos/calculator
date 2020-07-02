@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="Calculator" title="Calculator" src="/app/assets/screenshot.PNG" />
+    <img alt="Calculator" title="Calculator" src="/demo/calculator.gif" />
 </h1>
 
 ## 🖱 Tecnologias
