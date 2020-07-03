@@ -3,29 +3,29 @@
 </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-techs">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <h1 align="center">
     <img alt="Calculator" title="Calculator" src="/demo/calculator.gif" />
 </h1>
 
-## 🖱 Tecnologias
+## 🖱 Techs
 
-Este projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [ReactJS](https://reactjs.org)
 
-## 💻 Projeto
+## 💻 Project
 
-Uma calculadora simples feita com ReactJS durante o curso oferecido pela <a href="https://github.com/cod3rcursos">Cod3r</a>.
+A simple calculator made with React during the course offered by <a href="https://github.com/cod3rcursos">Cod3r Cursos</a>.
 
-## 🤔 Como contribuir
+## 🤔 Contributing
 
-1. Faça o _fork_ do projeto (<https://github.com/amanda-santos/calculator/fork>)
-2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
-3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
+1. _Fork_ this project (<https://github.com/amanda-santos/calculator/fork>)
+2. Create a _branch_ for your changes (`git checkout -b feature/fooBar`)
+3. _Commit_ (`git commit -am 'Add some fooBar'`)
 4. _Push_ (`git push origin feature/fooBar`)
-5. Crie um novo _Pull Request_
+5. Create a new _Pull Request_
